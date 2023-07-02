@@ -24,6 +24,6 @@ setuptools.setup(
         'torch',
         'torchvision',
         'scikit_learn',
-        'pillow<7'
+        'pillow'
     ]
 )
